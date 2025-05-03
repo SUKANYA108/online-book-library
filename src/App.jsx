@@ -35,4 +35,4 @@ export default App;
 
 
 
-github:"https://github.com/SUKANYA108/online-library.git"
+github:"https://github.com/SUKANYA108/online-book-library.git"
